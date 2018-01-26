@@ -2,22 +2,22 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.nomdelprograma"
-        versionCode = "00" 
-        version     = "0.0.00" >
+        id          = "cat.numancia.PauGuinart"
+        versionCode = "01" 
+        version     = "0.0.01" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	<preference name="phonegap-version" value="cli-6.5.0" />
 
-    <name>nom del programa</name>
+    <name>Reproductor .mp3</name>
 
    <description>
-       Descripció , nom i grup . Curs Acadèmic.
+       Reproductor de música, Pau Guinart 4tA. 2017 - 2018.
     </description>
 
-    <author href="https://numancia.cat/intranet" email="elteucorrreu@iesnumancia.cat">
-       nom de l'autor
+    <author href="https://pguinart11.github.io/4teso20172018_paginaweb/" email="pguinart11@iesnumancia.cat">
+       Pau Guinart
     </author>
 
 	<content src="index.html"/>
