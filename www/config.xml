@@ -10,7 +10,7 @@
 
 	<preference name="phonegap-version" value="cli-6.5.0" />
 
-    <name>Reproductor .mp3</name>
+    <name>Reproductor mp3</name>
 
    <description>
        Reproductor de música, Pau Guinart 4tA. 2017 - 2018.
