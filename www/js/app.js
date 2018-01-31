@@ -10,17 +10,17 @@ window.addEventListener('load', function() {
             url: '/inici',
             template: 'views/inici.html',
             controller: 'inici'
-        }
-	    ,
-	    musica: {
-	     inici: {
-            url: '/musica',
-            template: 'views/musica.html',
-            controller: 'musica'
-        }
+        },
+	    
+    	musica: {
+    	    url: '/musica',
+	    template: 'views/musica.html',
+	    controller: 'musica'
+	}
+	    
     });
      
-    /*Declare modal*/
+    /*Declare modal - ventana flotante*/
     $JSView.declareModal({
         modalA: {
             url: '/modalA',
